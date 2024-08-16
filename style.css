@@ -20,4 +20,12 @@ body {
 
 main {
     display: block;
+    margin: 0 auto;
+    max-width: 40 rem;
+    padding: 0 1.5rem 2.5rem;
+    position: relative;
+}
+
+header {
+    padding: 2rem 0;
 }
